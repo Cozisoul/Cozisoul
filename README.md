@@ -1,53 +1,52 @@
 # 👋 Hi, I'm Thapelo Madiba Masebe (Cozisoul)
 
-## 🪐 Transdisciplinary Artist, Data Scientist & Creative Technologist
-
-I work at the intersection of **data, memory, and emerging African identity**—using art, code, and research to translate the unseen into tangible forms.
-
-- 🎨 **Art + Code:** Exploring memory, identity, and cosmic aesthetics through generative systems and creative coding.
-- 📊 **Data Science:** Applying structured analysis to practical problems while crafting systematic approaches to learning.
-- 🛰️ **Radio Astronomy:** Building pipelines with MeerKAT data, translating cosmic signals into sound and visuals.
-- 🛠️ **TMM-OS:** Developing a personal operating system to manage my life, art, research, and learning as a unified system.
+### 🪐 Transdisciplinary Artist, Data Scientist & Creative Technologist
 
 ---
 
-## 🚧 Current Focus
+I operate from a professional office, not a traditional studio, architecting systems to translate the unseen—abstract data, memory, and emerging African identity—into tangible forms. My practice is a duality of the **Systematic** (structured, data-driven analysis) and the **Poetic** (intuitive, aesthetic inquiry).
 
-✅ Completing the **Deviare Data Science Learnership** and `DataSciencePortfolio` uploads.  
-✅ Building my **TMM-OS** (Personal Operating System + Dashboard) for daily operations and artistic research management.  
-✅ Publishing **transdisciplinary projects** that merge art, data, and African futures.
+This GitHub is the technical foundation for that practice.
 
 ---
 
-## 🖥️ Projects
+### 🏛️ Core Pillars of My Practice
 
-- [DataSciencePortfolio](https://github.com/Cozisoul/DataSciencePortfolio): My structured coursework archive in Excel, Python, Tableau, R, SQL, PowerBI, and Machine Learning.
-- [tmm-creative-coding](https://github.com/Cozisoul/tmm-creative-coding): A living archive of creative coding explorations.
-- [CalibratingTheCosmos-UHF](https://github.com/Cozisoul/CalibratingTheCosmos-UHF): Radio astronomy data pipeline for MeerKAT observations.
-- [p5-image-effect-roulette](https://github.com/Cozisoul/p5-image-effect-roulette): A playful p5.js experiment in generative image manipulation.
+My work is organized into four key pillars, each linking a core concept to active, public projects.
 
----
-
-## 📚 Learning
-
-- Data Science with Python, Deep Learning, Advanced Machine Learning
-- Creative Coding (p5.js, GLSL, Processing)
-- Radio Astronomy Data Pipelines
-- Transdisciplinary Research & African Identity
+| Pillar | Core Concept | Key Project |
+| :--- | :--- | :--- |
+| **Transdisciplinary Art & Research** | `The Poetic` | **[tmm-creative-coding](https://github.com/Cozisoul/tmm-creative-coding)** |
+| **Data Science & Machine Learning**| `The Systematic` | **[DataSciencePortfolio](https://github.com/Cozisoul/DataSciencePortfolio)** |
+| **Scientific & Cosmic Analysis** | `Translating the Unseen` | **[CalibratingTheCosmos-UHF](https://github.com/Cozisoul/CalibratingTheCosmos-UHF)**|
+| **System Architecture** | `The Office` | **[tmm-os](https://github.com/Cozisoul/tmm-os)** *(This OS!)* |
 
 ---
 
-## 🌍 Connect
+### 💻 Tech Stack: Code as a Creative Medium
 
-- 📝 [LinkedIn](https://www.linkedin.com/in/thapelomadibamasebe/)
-- 🎨 [Instagram](https://www.instagram.com/thapelomasebe/)
-- 📻 Research Radio (coming soon)
-- 🌌 aes72studio (coming soon)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Data Science & ML** | `Python` `Pandas` `SQL (MySQL)` `R` `Tableau` `Power BI` `TensorFlow` `AWS` |
+| **Creative & Generative** | `Adobe Creative Suite` `Final Cut Pro` `DaVinci Resolve` `Supercollider` `p5.js` `GLSL` |
+| **Systems & Operations** | `Git` `GitHub` `Docker` `n8n` `Ollama` `Home Assistant` |
 
 ---
 
-> “Code is my brush, data is my paint.”
+### 🗺️ Public Roadmap: 2025
 
-I am open to collaborations at the intersection of **art, data, and storytelling**.
+- **`[ ✅ ]`** Complete the Deviare Data Science Learnership and populate the `DataSciencePortfolio`.
+- **`[ ⏳ ]`** Architect and build the foundational layer of my **TMM-OS** and Mission Control Dashboard.
+- **`[ 🚀 ]`** Launch **`MeerKAT Echoes`**, the first major project from the `CalibratingTheCosmos-UHF` pipeline, translating radio astronomy data into art and sound.
 
-✨ Let’s translate the unseen together.
+---
+
+### 🌍 Let's Connect
+
+I am always open to collaborations at the intersection of **art, data, and storytelling**.
+
+- 📝 Find my professional journey on **[LinkedIn](https://www.linkedin.com/in/thapelomadibamasebe/)**
+- 🎨 See my visual work on **[Instagram](https://www.instagram.com/thapelomasebe/)**
+- 📫 Reach out to me directly at **thapelomasebe@hotmail.com**
+
+✨ **Let’s translate the unseen together.**
