@@ -45,8 +45,8 @@ My work is organized into four key pillars, each linking a core concept to activ
 
 I am always open to collaborations at the intersection of **art, data, and storytelling**.
 
-- 📝 Find my professional journey on **[LinkedIn](https://www.linkedin.com/in/thapelomadibamasebe/)**
-- 🎨 See my visual work on **[Instagram](https://www.instagram.com/thapelomasebe/)**
+- 📝 Find my professional journey on **[LinkedIn]([https://www.linkedin.com/in/thapelomadibamasebe/](https://www.linkedin.com/in/thapelo-masebe-733a67143/))**
+- 🎨 See my visual work on **[Instagram](https://www.instagram.com/thapelo_gv72/)**
 - 📫 Reach out to me directly at **thapelomasebe@hotmail.com**
 
 ✨ **Let’s translate the unseen together.**
